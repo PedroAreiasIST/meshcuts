@@ -1,0 +1,20 @@
+{
+  "name": "meshcuts",
+  "version": "1.0.0",
+  "description": "Random joke generator web app",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test"
+  },
+  "keywords": [
+    "jokes",
+    "vite"
+  ],
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "vite": "^8.3.5"
+  }
+}
